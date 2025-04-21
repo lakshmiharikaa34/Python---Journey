@@ -1,4 +1,4 @@
-# Python---Journey
+# Python-Journey
 
 ## 📘 About This Repository
 This repo is for anyone who wants to learn Python from the beginning.  
